@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/spring-sql-jpa.git
+      url: https://github.com/SteveDZ/wine-cellar.git
       ref:
         branch: main
